@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iesokuthu.matsuda-tokiwado.com/sitemap.xml
